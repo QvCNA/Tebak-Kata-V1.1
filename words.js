@@ -12,8 +12,8 @@ const wordList = [
         hint: "acil-acil jual bakwan"
     },
     {
-        word: "zaini",
-        hint: "nama bapak reza"
+        word: "reza",
+        hint: "gemoy,lucu"
     },
     {
         word: "faiz",
